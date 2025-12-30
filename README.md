@@ -49,14 +49,4 @@ CatApi/
 - SOLID
 - Separación de capas
 - Inyección de dependencias
-- Repositorio en memoria para usuarios
-- Cliente HTTP desacoplado para TheCatApi
 
-## Comenzar
-1. Completa la configuración de DI y el startup de la API
-2. Implementa los servicios y controladores restantes
-3. Agrega lógica de negocio y pruebas unitarias
-
----
-
-Este proyecto es una base para pruebas técnicas y puede ser extendido según necesidades.
